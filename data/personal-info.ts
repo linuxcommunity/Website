@@ -1,7 +1,7 @@
 import type { PersonalInfo } from "@/types"
 
 export const personalInfo: PersonalInfo = {
-  name: "Reza Aditya",
+  name: "Linux Community",
   title: "Web Developer",
   description:
     "Passionate about creating beautiful, functional, and user-centered digital experiences.",
@@ -15,11 +15,11 @@ export const personalInfo: PersonalInfo = {
 
 export const aboutDescription = {
   intro:
-    "Halo! Saya Reza Aditya, seorang Web Developer dan mahasiswa Teknik Informatika yang passionate dalam dunia teknologi. Saya berspesialisasi dalam pengembangan web modern menggunakan Laravel, Next.js, dan berbagai teknologi terkini. Saya senang membangun proyek-proyek yang menyelesaikan masalah nyata dan terus belajar tools serta framework baru.",
+    "LINUX COMMUNITY.",
   hobby:
-    "Ketika tidak sedang coding, Anda bisa menemukan saya mengeksplorasi teknologi baru.",
+    "TESTING.",
   philosophy:
-    "I believe in continuous learning and staying up-to-date with the latest industry trends to deliver the best possible solutions for my clients and projects.",
+    "BAHASA INGGRIS.",
 }
 
 export const cvInfo = {
