@@ -5,10 +5,10 @@ import { useState, useEffect, useRef } from "react"
 
 const navItems = [
   { name: "Home", href: "#hero" },
-  { name: "About", href: "#about" },
-  { name: "Skills", href: "#skills" },
-  { name: "Projects", href: "#projects" },
-  { name: "Contact", href: "#contact" },
+  { name: "Tentang Kami", href: "#about" },
+  { name: "Keahlian Kami", href: "#skills" },
+  { name: "Projek Kami", href: "#projects" },
+  { name: "Komunitas Kami", href: "#contact" },
 ]
 
 export function Navbar() {
@@ -86,7 +86,7 @@ export function Navbar() {
       <div className="max-w-7xl mx-auto px-6 lg:px-8">
         <div className="flex justify-between items-center py-5">
           <div ref={logoRef} className="text-2xl font-light text-white tracking-wider">
-            <span className="gradient-text font-medium">Rz</span>
+            <span className="gradient-text font-medium">Linux Comunity</span>
             <span className="text-white/60">.</span>
           </div>
 
