@@ -1,8 +1,9 @@
 export const developerRoles = [
-  "Web Developer",
-  "Promp Engineer",
-  "React Developer",
-  "Laravel Developer",
+  "Arch Linux",
+  "Ubuntu 24.04 LTS",
+  "Fedora 39",
+  "Debian 12",
+  "Pop!_OS 24.04",
 ]
 
 export const skillTexts = [
