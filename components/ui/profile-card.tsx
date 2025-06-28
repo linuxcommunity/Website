@@ -26,7 +26,7 @@ export function ProfileCard({ imageUrl, className = "" }: ProfileCardProps) {
               width={288}
               height={288}
               src={`/images/profile.webp?v=${Date.now()}`}
-              alt="Reza Aditya - Web Developer"
+              alt="Linux Community - Web Developer"
               className="w-full h-full object-cover"
               priority={true}
               quality={85}
