@@ -6,7 +6,7 @@ import { FloatingCard } from "@/components/ui/floating-card"
 import { RotatingText } from "@/components/ui/rotating-text"
 
 export function AboutSection() {
-  const aboutTitles = ["Get to know me!", "About Reza", "My Story", "Who am I?", "Meet the Developer"]
+  const aboutTitles = ["Get to know me!", "Tentang Kami", "My Story", "Who am I?", "Meet the Developer"]
 
   return (
     <section id="about" className="py-32 px-6 sm:px-8 lg:px-12 relative">
@@ -18,7 +18,7 @@ export function AboutSection() {
 
       <div className="max-w-7xl mx-auto relative z-10">
         <h2 className="text-4xl md:text-5xl lg:text-6xl font-light text-center mb-20 text-white tracking-wide">
-          About <span className="gradient-text font-medium">Me</span>
+          Tentang <span className="gradient-text font-medium">Kami</span>
         </h2>
 
         <div className="grid lg:grid-cols-2 gap-16 lg:gap-24 items-center">
