@@ -4,15 +4,15 @@ export function Footer() {
       <div className="max-w-7xl mx-auto">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="text-2xl font-light text-white tracking-wider mb-4 md:mb-0">
-            <span className="gradient-text font-medium">Rz</span>
+            <span className="gradient-text font-medium">Linux Community</span>
             <span className="text-white/60">.</span>
           </div>
 
           <div className="text-center md:text-right">
             <p className="text-white/50 text-sm font-light tracking-wide mb-2">
-              &copy; {new Date().getFullYear()} Reza Ramadhon. All rights reserved.
+              &copy; {new Date().getFullYear()} Linux Community. All rights reserved.
             </p>
-            <p className="text-white/80 text-xs font-light tracking-wide">Crafted with passion and precision</p>
+            <p className="text-white/80 text-xs font-light tracking-wide">Toko RootSec Bot</p>
           </div>
         </div>
       </div>
