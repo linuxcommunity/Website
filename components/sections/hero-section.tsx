@@ -74,12 +74,12 @@ export function HeroSection() {
       <div className="max-w-5xl mx-auto text-center relative z-10">
         <div className="mb-8">
           <div className="inline-block px-4 py-2 glass rounded-full mb-8">
-            <span className="text-white/70 text-sm font-light tracking-wide">Available for new opportunities</span>
+            <span className="text-white/70 text-sm font-light tracking-wide">Selamat Datang 🐧</span>
           </div>
         </div>
 
         <h1 ref={titleRef} className="text-5xl md:text-7xl lg:text-8xl font-light mb-8 text-white leading-tight">
-          Hi, I'm <span className="gradient-text font-medium block md:inline mt-2 md:mt-0">{personalInfo.name}</span>
+          Komunitas <span className="gradient-text font-medium block md:inline mt-2 md:mt-0">Linux Indonesia</span>
         </h1>
 
         {/* Rotating Text Subtitle */}
@@ -114,14 +114,14 @@ export function HeroSection() {
             className="glass-strong hover:glow-medium text-white border-white/20 hover:border-white/40 transition-all duration-500 px-8 py-4 text-base font-light tracking-wide group"
           >
             <Download className="mr-3 h-5 w-5 transition-transform group-hover:scale-110" />
-            Download Resume
+            Join Group
           </Button>
           <Button
             size="lg"
             variant="ghost"
             className="text-white hover:glass transition-all duration-500 px-8 py-4 text-base font-light tracking-wide group"
           >
-            View Projects
+            Projek Kami
             <ArrowRight className="ml-3 h-5 w-5 transition-transform group-hover:translate-x-1" />
           </Button>
         </div>
